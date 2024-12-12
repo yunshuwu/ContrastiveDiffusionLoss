@@ -1,0 +1,4 @@
+{
+    "dataset": "moons",
+    "output_dir": "./flow_synthetic_2d_checkpoints/"
+}
